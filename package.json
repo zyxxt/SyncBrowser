@@ -1,0 +1,28 @@
+{
+  "name": "SyncBrowser",
+  "version": "0.0.0",
+  "description": "sync browser event to everywhere",
+  "main": "Gruntfile.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/zyxxt/SyncBrowser"
+  },
+  "keywords": [
+    "SyncBrowser"
+  ],
+  "author": "zyt",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/zyxxt/SyncBrowser/issues"
+  },
+  "homepage": "https://github.com/zyxxt/SyncBrowser",
+  "dependencies": {
+    "grunt": "*",
+    "grunt-cli": "*",
+    "socket.io": "*",
+    "request": "*"
+  }
+}

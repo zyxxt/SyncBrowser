@@ -1,0 +1,1 @@
+# Sync browser event to everywhere

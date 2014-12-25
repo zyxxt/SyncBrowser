@@ -1,0 +1,16 @@
+.test-hover:hover {
+    background: green;
+    color: #FFF;
+}
+
+.test-image {
+    background: url("./image/test.png") no-repeat left center;
+    padding-left: 40px;
+    line-height: 30px;
+}
+
+.test-img {
+    position: absolute;
+    left: 200px;
+    top: 20px;
+}
